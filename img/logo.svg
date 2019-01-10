@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:lc="http://www.librecad.org"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="400mm" height="400mm"
+    viewBox="0 0 400 400">
+    <g
+        lc:layername="0"
+        lc:is_locked="false"
+        lc:is_construction="false"
+        fill="#eb4848" stroke="none">
+        <path d="
+            M0,220
+            L0,360
+            A40,40 0 0,0 40,400
+            L360,400
+            A40,40 0 0,0 400,360
+            L400,220
+            L260,220
+            L300,260
+            L280,260
+            L280,360
+            L120,360
+            L120,260
+            L100,260
+            L140,220
+            L0,220
+            Z
+        "/>
+        <path d="
+            M0,180
+            L140,180
+            L140,160
+            L120,160
+            L160,120
+            L160,40
+            L240,40
+            L240,120
+            L280,160
+            L260,160
+            L260,180
+            L400,180
+            L400,40
+            A40,40 0 0,0 360,0
+            L40,0
+            A40,40 0 0,0 0,40
+            L0,180
+            Z
+        "/>
+    </g>
+</svg>
